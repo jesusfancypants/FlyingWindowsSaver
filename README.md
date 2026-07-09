@@ -21,6 +21,10 @@ Ships as a real `.saver` module (System Settings → Wallpaper → Screen Saver 
 
 Compiles a universal (arm64 + x86_64) binary via `swiftc` + `lipo` (no `.xcodeproj` involved) and installs `Flying Windows.saver` to `~/Library/Screen Savers/` automatically.
 
+## Or just download it!
+
+[Flywing Windows](https://github.com/jesusfancypants/FlyingWindowsSaver/blob/main/Flying%20Windows.saver.zip)
+
 ## Install / select it
 
 System Settings → Wallpaper → Screen Saver → Other → **Flying Windows**, then its "Options…" button to change icon/count/speed/rotation.
