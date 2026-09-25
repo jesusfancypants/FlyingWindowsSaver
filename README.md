@@ -23,7 +23,7 @@ Compiles a universal (arm64 + x86_64) binary via `swiftc` + `lipo` (no `.xcodepr
 
 ## Or just download it!
 
-[Flywing Windows](https://github.com/jesusfancypants/FlyingWindowsSaver/blob/main/Flying%20Windows.saver.zip)
+[Flying Windows](https://github.com/jesusfancypants/FlyingWindowsSaver/blob/main/Flying%20Windows.saver.zip)
 
 ## Install / select it
 
